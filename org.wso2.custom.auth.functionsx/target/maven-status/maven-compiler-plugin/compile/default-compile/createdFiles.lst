@@ -1,0 +1,4 @@
+org/wso2/custom/auth/functions/internal/UserStoreFunctionsServiceXComponent.class
+org/wso2/custom/auth/functions/GetUserWithClaimValuesX.class
+org/wso2/custom/auth/functions/internal/UserStoreFunctionsServiceXHolder.class
+org/wso2/custom/auth/functions/UserStoreFunctionsX.class
